@@ -2,6 +2,8 @@
 
 An interactive Streamlit dashboard for analyzing commodity price trends from 2020-2025, featuring exploratory data analysis, time series analysis, geographic insights, and machine learning models.
 
+**Streamlit Dashboard Link** - https://shaurya-commodity-price-analysis-dashboard.streamlit.app/
+
 ## 🚀 Features
 
 - **📈 Overview Dashboard**: Key metrics, statistics, and top commodities
