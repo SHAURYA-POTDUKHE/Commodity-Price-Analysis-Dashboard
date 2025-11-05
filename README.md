@@ -1,6 +1,6 @@
 # 📊 Commodity Price Analysis Dashboard
 
-An interactive Streamlit dashboard for analyzing commodity price trends from 2020-2025, featuring exploratory data analysis, time series analysis, geographic insights, and machine learning models.
+A streamlit interactive dashboard to analyze a trend of commodity prices in 2020-2025 with the exploratory data analysis, time series analysis, geographic analysis, and machine learning models.
 
 **Streamlit Dashboard Link** - https://shaurya-commodity-price-analysis-dashboard.streamlit.app/
 
@@ -60,37 +60,37 @@ The dashboard will automatically open in your default web browser at `http://loc
 ### Navigation
 Use the sidebar to navigate between different sections:
 
-1. **🏠 Overview**: Get a quick summary of the dataset with key metrics
-2. **📈 EDA & Visualizations**: Explore data distributions and patterns
+1. **🏠 Overview**: Obtain a brief overview of the data data using essential metrics.
+2. **📈 EDA & Visualizations**: Data distributions chart and analysis.
 3. **⏱️ Time Series Analysis**: Analyze price trends over time
 4. **🗺️ Geographic Analysis**: Compare prices across markets and states
 5. **🤖 Machine Learning Models**: View prediction and clustering results
 6. **🔍 Data Explorer**: Filter and download customized data
 
 ### Interactive Features
-- **Filters**: Select commodities, date ranges, markets, and price ranges
-- **Visualizations**: Interactive Plotly charts (hover, zoom, pan)
-- **Export**: Download filtered data as CSV
-- **Real-time Updates**: Charts update dynamically based on your selections
+- **Filters**: Choose commodities, date, markets and price ranges.
+- **Visualizations**: Hover, zoom, pan Plotly charts.
+- **Export**: Download filtered data in CSV
+- **Real-time Updates**: The charts are dynamically updated according to your choice.
 
 ## 📊 Dashboard Sections
 
 ### 1. Overview
-- Total records, commodities, and markets
+- Total records, markets, and commodities.
 - Average modal price
-- Top 10 commodities by frequency
+- 10 most common commodities frequency.
 - Recent data preview
 
 ### 2. EDA & Visualizations
-- **Distribution Analysis**: Histograms and box plots for price distribution
-- **Commodity Share**: Pie and bar charts showing market share
-- **Heatmaps**: Commodity vs Year price trends
-- **Price Ranges**: Min, Max, and Modal price comparisons
+- **Distribution Analysis**: Histogram and box plot for price distribution
+- **Commodity Share**: Pie and bar charts of market share.
+- **Heatmaps**: Years vs Price trends of commodities.
+- **Price Ranges**: Min, Max and Modal price comparisons.
 
 ### 3. Time Series Analysis
-- **Yearly Trends**: Average price trends from 2020-2025
-- **Monthly Trends**: Detailed monthly analysis for top commodities
-- **Commodity Comparison**: Compare multiple commodities over time
+- **Yearly Trends**: The average price trends of 2020-2025.
+- **Monthly Trends**: Top commodities monthly analysis.
+- **Commodity Comparison**: Comparison of several commodities over time.
 
 ### 4. Geographic Analysis
 - **Market Analysis**: Price distribution across top markets
@@ -164,20 +164,20 @@ The modular structure makes it easy to add new tabs or visualizations.
 1. Use the sidebar filters to focus on specific commodities or time periods
 2. Export filtered data for further analysis in Excel or other tools
 3. Hover over charts to see detailed information
-4. Use the Data Explorer to quickly find specific records
-5. Compare multiple commodities in the Time Series section
+4. Data Explorer provides the opportunity to locate the necessary records with ease.
+5. Compare different commodities as Time Series.
 
 ## 🤝 Contributing
 
-Feel free to customize the dashboard for your specific needs. Some ideas:
-- Add more machine learning models
+The dashboard can be customized to meet your requirements. Some ideas:
+- Strengthen the amount of machine learning models.
 - Include weather data correlations
 - Add forecasting capabilities
 - Create custom reports
 
 ## 📄 License
 
-This project is created for educational purposes as part of a Data Science course project.
+The project is developed as an educational project in a Data Science and Machine Learning course project.
 
 ---
 
